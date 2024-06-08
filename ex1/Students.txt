@@ -1,0 +1,6 @@
+﻿'Abed Tayar ', 'Abed.tayar@e.braude.ac.il'  , 'data compression Introduction to cloud computing Embracing Diversity Professional Liability ' ,  'google.com'
+'Maroun Nasra ', 'maroun.nasra@e.braude.ac.il'  , 'probability Introduction to cloud computing networks' ,  'https://marounna.github.io/'
+'Yaniv blitzman','yaniv.blitzman@e.braude.ac.il' ,'web cloud Automatim data mining','https://www.pokemon.com/us/pokedex/pikachu'
+'Hila Maman', 'hila.maman@e.braude.ac.il', 'Automata and Computability Probability for Software Engineering Web Introduction to Cloud Computing Physics for Software Engineering',' https://aws.amazon.com/blogs/machine-learning/aws-at-nvidia-gtc-2024-accelerate-innovation-with-generative-ai-on-aws/'
+'Hamza abu nimer', 'Hamza.abu.nimer@e.braude.ac.il'  , 'data compression Introduction to cloud computing Embracing Diversity Professional Liability ' ,  'https://www.apple.com/'
+'Haddad Basel', 'Haddadbasel54@gmail.com'  , 'data compression Introduction to cloud computing Embracing Diversity Professional Liability ' ,  'https://www.youtube.com/'
